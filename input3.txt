@@ -1,0 +1,8 @@
+@article{
+CES86,
+author = "Clarke, E. M. and Emerson, E. A. and Sistla, A. P.",
+title = "Automatic Verification of finite-state concurrent systems using temporal logic
+specifications", journal = "ACM Transactions on Programming Languages and Systems (TOPLAS)",
+volume = "8(2)",
+pages = "244--263",
+year = "1986",}

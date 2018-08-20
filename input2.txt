@@ -1,0 +1,7 @@
+@Book{
+Eko87,
+author = "Emerson, E. A.",
+title = "Temporal and modal logic",
+publisher = "Handbook of Theoretical Computer Science, Volume B: Formal Models and Semantics",
+pages = "995--1072",
+year = "1990" , }

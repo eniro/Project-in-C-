@@ -1,0 +1,43 @@
+
+@Book{
+BR86,
+author = "Waldron, Jeremy",
+title = "Mill and the Value of Moral Distress",
+pages = "16--52",
+year = "2006", 
+
+@Book{
+CEO94,
+author = "Castoriadis, Cornelius",
+title = "L'Institution imaginaire de la société",
+pages = "1--263",
+year = "1975" , 
+
+@article{
+CES86,
+author = "Clarke, E. M. and Emerson, E. A. and Sistla, A. P.",
+title = "Automatic Verification of finite-state concurrent systems using temporal logic
+volume = "8(2)",
+pages = "244--263",
+year = "1986",
+
+@article{
+EH86,
+author = "Emerson, E. A. and Halpern, J. Y.",
+title = "Sometimes and not never revisited: On branching versus linear time temporal logic",
+pages = "151--178", 
+year = "1986" , 
+
+@Book{
+Eko87,
+author = "Emerson, E. A.",
+title = "Temporal and modal logic",
+pages = "995--1072",
+year = "1990" , 
+
+@article{
+Eme96,
+author = "Emerson, E. A.",
+title = "Automated Temporal Reasoning about Reactive Systems",
+pages = "41--101",
+year = "1996" , 

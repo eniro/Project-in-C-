@@ -1,0 +1,7 @@
+@article{
+EH86,
+author = "Emerson, E. A. and Halpern, J. Y.",
+title = "Sometimes and not never revisited: On branching versus linear time temporal logic",
+journal = "Journal of the ACM", volume = "33(1)", 
+pages = "151--178", 
+year = "1986" , }

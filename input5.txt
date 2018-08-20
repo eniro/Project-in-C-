@@ -1,0 +1,6 @@
+@Book{
+CEO94,
+author = "Castoriadis, Cornelius",
+title = "L'Institution imaginaire de la société",
+pages = "1--263",
+year = "1975" , }

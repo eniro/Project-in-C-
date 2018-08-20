@@ -1,0 +1,7 @@
+@Book{
+BR86,
+author = "Waldron, Jeremy",
+title = "Mill and the Value of Moral Distress",
+booktitle = "Political Studies 35",
+pages = "16--52",
+year = "2006", }

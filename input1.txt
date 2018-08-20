@@ -1,0 +1,7 @@
+@article{
+Eme96,
+author = "Emerson, E. A.",
+title = "Automated Temporal Reasoning about Reactive Systems",
+booktitle = "Proceedings of the VIII Banff Higher order workshop conference on Logics for concurrency: structure versus automata",
+pages = "41--101",
+year = "1996" , }
